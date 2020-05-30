@@ -46,7 +46,10 @@ a {
 a:hover {
   color: #EAF6F6;
 }
-
+.about-p{
+  width:50%;
+  margin:auto;
+}
 .top-container {
   background-color: #d4f3ef;
   position: relative;
@@ -86,7 +89,8 @@ a:hover {
 }
 
 .conp {
-  margin-bottom: 50px;
+  width: 50%;
+  margin: auto auto 50px auto;
 }
 
 .btn {
